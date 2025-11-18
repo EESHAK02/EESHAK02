@@ -24,7 +24,7 @@ Feel free to check out my [Portfolio](https://eskulkar.wixsite.com/my-cv) for mo
 ---
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/eeshakulkarni/) • [Email](eskulkar@andrew.cmu.edu)  
+[LinkedIn](https://www.linkedin.com/in/eeshakulkarni/) • [Email](eeshawork25@gmail.com)  
 
 <!--
 **EESHAK02/EESHAK02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
