@@ -6,8 +6,8 @@ My research focuses on applying machine learning, deep learning, and computer vi
 ---
 
 ## Featured Projects
-- **Bacterial Motility Analysis** – Streamlit platform for tracking & classifying trajectories + GAN based trajectory generation augmenting data for downstream ML Classifier 
-- **TEP Fault Detection** – CNN + Transformer, Convolutional Autoencoders for identifying anomalies in a time-series process dataset (TEP Dataset)
+- **Bacterial Motility Analysis** - Streamlit platform for tracking & classifying trajectories + GAN based trajectory generation augmenting data for downstream ML Classifier 
+- **TEP Fault Detection** - CNN + Transformer, Convolutional Autoencoders for identifying anomalies in a time-series process dataset (TEP Dataset)
 - **Fraud Detection Agent** - ML models + adversarial attacks + LLM-based agent to explain why a transaction has been flagged as a fraud
 - **RetroTrader** - Leveraging DistilBERT and FinBERT for summary + sentiment analysis of financial news wrapped in a CRT-style UI on Streamlit
 
