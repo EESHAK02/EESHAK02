@@ -1,6 +1,6 @@
 ## Hello, I'm Eesha
 
-### Graduate Student at Carnegie Mellon University
+### Researcher at Carnegie Mellon University
 My research focuses on applying machine learning, deep learning, and computer vision across trajectory modeling, anomaly detection and LLM-based agentic explainer systems. 
 
 Currently seeking full-time opportunities in AI/ML/Data Science domains - open to exploring diverse industries/application areas!
